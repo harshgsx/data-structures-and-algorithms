@@ -1,0 +1,4 @@
+﻿  HShah5830-LinkedList.cpp
+D:\Study\Algorithms And Data Strucures\HShah5830-LinkedList\HShah5830-LinkedList\HShah5830-LinkedList.cpp(155,10): warning C4101: 'rc': unreferenced local variable
+D:\Study\Algorithms And Data Strucures\HShah5830-LinkedList\HShah5830-LinkedList\HShah5830-LinkedList.cpp(154,17): warning C4101: 'stringLength': unreferenced local variable
+  HShah5830-LinkedList.vcxproj -> D:\Study\Algorithms And Data Strucures\HShah5830-LinkedList\Debug\HShah5830-LinkedList.exe
